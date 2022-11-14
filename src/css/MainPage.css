@@ -1,0 +1,23 @@
+#mainpage{
+  padding-top: 3em;
+  z-index: 2;
+}
+
+
+#AddButton{
+    
+    background-color: #51a351; 
+    display: block;
+    border-radius: 50%; 
+    border: #51a351  solid;   
+    background-position: center;     
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);   
+    background-image: url("./add.png");
+    position: fixed;
+    bottom: 0;
+    right: 0.7em;
+    width: 3em;
+    height: 2.7em;
+    margin-bottom: 3.5em;
+    
+} 
