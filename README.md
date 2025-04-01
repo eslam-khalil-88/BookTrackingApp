@@ -12,10 +12,11 @@ This app is designed using *create-react-app* , you can find more information by
 Please use *npm install* to install all dependencies required for this project.
 
 ## Installation
-
+```
 + git clone https://github.com/eslam-khalil-88/booktracking.git
 + cd booktracking
 + npm start
+```
 
 ## Tools used to build the app
 
